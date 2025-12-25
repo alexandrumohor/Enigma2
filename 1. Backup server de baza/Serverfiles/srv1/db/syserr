@@ -1,0 +1,632 @@
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #19    Sabie+9                  SELL_OVERFLOW dwGold: 100 < dwShopBuyPrice 150
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #29    Sabie lungã+9            SELL_OVERFLOW dwGold: 400 < dwShopBuyPrice 600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #39    Iatagan+9                SELL_OVERFLOW dwGold: 600 < dwShopBuyPrice 900
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #49    Sabie bambus+9           SELL_OVERFLOW dwGold: 800 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #58    Sabie latã+8             SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 3100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #59    Sabie latã+9             SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #68    Sabie de argint+8        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 5100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #69    Sabie de argint+9        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7700
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #78    Sabie orhidee+8          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #79    Sabie orhidee+9          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #88    Sabie bastard+8          SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 15400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #89    Sabie bastard+9          SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 23100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #98    Sabie barbar+8           SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 20500
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #99    Sabie barbar+9           SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #108   Sabie sângeroasã+8       SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 82000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #109   Sabie sângeroasã+9       SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 123000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #118   Sabie mare+8             SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 113000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #119   Sabie mare+9             SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 169000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #128   Sabie vrãjitor+8         SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 144000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #129   Sabie vrãjitor+9         SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 215000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #138   Sabie semilunã+8         SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 185000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #139   Sabie semilunã+9         SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 277000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #148   Sabie de bãtãlie+8       SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #149   Sabie de bãtãlie+9       SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #158   Lama Dintele Stafiei+8   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #159   Lama Dintele Stafiei+9   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #168   Sabie nimfã+8            SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #169   Sabie nimfã+9            SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #170   Spadã+0                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 445000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #171   Spadã+1                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 460000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #172   Spadã+2                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 535000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #173   Spadã+3                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 700000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #174   Spadã+4                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1100000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #175   Spadã+5                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1400000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #176   Spadã+6                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1420000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #177   Spadã+7                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1440000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #178   Spadã+8                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1480000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #179   Spadã+9                  SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1520000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #188   Sabie otrãvitã+8         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #189   Sabie otrãvitã+9         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #198   Sabie leu+8              SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #199   Sabie leu+9              SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #208   Lamã+8                   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #209   Lamã+9                   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #248   Sabie exorcism+8         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #249   Sabie exorcism+9         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #250   Lama Demon+0             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 445000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #251   Lama Demon+1             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 460000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #252   Lama Demon+2             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 535000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #253   Lama Demon+3             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 700000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #254   Lama Demon+4             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1100000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #255   Lama Demon+5             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1400000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #256   Lama Demon+6             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1420000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #257   Lama Demon+7             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1440000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #258   Lama Demon+8             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1480000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #259   Lama Demon+9             SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1520000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #278   Sabie Triton+8           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #279   Sabie Triton+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #288   Sabie sfântã+8           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #289   Sabie sfântã+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #296   Sabie lunã plinã+6       SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 16300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #297   Sabie lunã plinã+7       SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #298   Sabie lunã plinã+8       SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #299   Sabie lunã plinã+9       SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 46200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1009  Pumnal+9                 SELL_OVERFLOW dwGold: 100 < dwShopBuyPrice 150
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1019  Pumnal cobra+9           SELL_OVERFLOW dwGold: 600 < dwShopBuyPrice 900
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1028  Pumnal foarfece+8        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 3100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1029  Pumnal foarfece+9        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1038  Cuþit norocos+8          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1039  Cuþit norocos+9          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1048  Cuþit muºcãtura pisic.+8 SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 15400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1049  Cuþit muºcãtura pisic.+9 SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 23100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1058  Pumnal Mascã de Diavol+8 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 20500
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1059  Pumnal Mascã de Diavol+9 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1068  Pumnal pumn de diavol+8  SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 82000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1069  Pumnal pumn de diavol+9  SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 123000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1078  Pumnal sângeros+8        SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 113000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1079  Pumnal sângeros+9        SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 169000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1088  Cuþit de coaste+8        SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 144000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1089  Cuþit de coaste+9        SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 215000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1098  Chakram+8                SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 185000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1099  Chakram+9                SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 277000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1108  Cutit Dragon+8           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1109  Cutit Dragon+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1118  Cuþit fulger+8           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1119  Cuþit fulger+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1120  Cuþit siamez+0           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 445000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1121  Cuþit siamez+1           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 460000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1122  Cuþit siamez+2           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 535000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1123  Cuþit siamez+3           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 700000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1124  Cuþit siamez+4           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1100000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1125  Cuþit siamez+5           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1400000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1126  Cuþit siamez+6           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1420000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1127  Cuþit siamez+7           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1440000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1128  Cuþit siamez+8           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1480000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1129  Cuþit siamez+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1520000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1138  Chakram Aripã Diavol+8   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1139  Chakram Aripã Diavol+9   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1177  Pumnal foaie neagrã+7    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1178  Pumnal foaie neagrã+8    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #1179  Pumnal foaie neagrã+9    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 46200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2009  Arc+9                    SELL_OVERFLOW dwGold: 100 < dwShopBuyPrice 150
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2019  Arc lung+9               SELL_OVERFLOW dwGold: 400 < dwShopBuyPrice 600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2029  Arc compozit+9           SELL_OVERFLOW dwGold: 600 < dwShopBuyPrice 900
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2039  Arc de rãzboi+9          SELL_OVERFLOW dwGold: 800 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2048  Arc lung de cãlãreþ+8    SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 3100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2049  Arc lung de cãlãreþ+9    SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2058  Arc cãlãreþ de rãzboi+8  SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 5100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2059  Arc cãlãreþ de rãzboi+9  SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7700
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2068  Arc ornament cupru+8     SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2069  Arc ornament cupru+9     SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2078  Arc distrugere+8         SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 15400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2079  Arc distrugere+9         SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 23100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2088  Arc ochi roºu+8          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 20500
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2089  Arc ochi roºu+9          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2098  Arc Spin+8               SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 82000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2099  Arc Spin+9               SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 123000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2108  Arc corn de taur+8       SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 113000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2109  Arc corn de taur+9       SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 169000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2118  Arc unicorn+8            SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 144000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2119  Arc unicorn+9            SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 215000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2128  Arc aripã uriaºã+8       SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 185000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2129  Arc aripã uriaºã+9       SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 277000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2139  Arc caisã+9              SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 385000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2149  Arc Dragon-galben+9      SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 385000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2157  Arc corn+7               SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2158  Arc corn+8               SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2159  Arc corn+9               SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 46200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2169  Arcul marelui diavol+9   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 385000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2179  Arcul oþelit al ciorii+9 SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 385000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2180  Arc Dragon-albastru+0    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 445000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2181  Arc Dragon-albastru+1    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 460000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2182  Arc Dragon-albastru+2    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 535000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2183  Arc Dragon-albastru+3    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 700000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2184  Arc Dragon-albastru+4    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1100000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2185  Arc Dragon-albastru+5    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1400000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2186  Arc Dragon-albastru+6    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1420000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2187  Arc Dragon-albastru+7    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1440000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2188  Arc Dragon-albastru+8    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1480000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2189  Arc Dragon-albastru+9    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1520000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2198  Arc stafie+8             SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 82000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #2199  Arc stafie+9             SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 123000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3009  Glaive+9                 SELL_OVERFLOW dwGold: 100 < dwShopBuyPrice 150
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3019  Suliþã+9                 SELL_OVERFLOW dwGold: 400 < dwShopBuyPrice 600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3029  Lama Ghilotina+9         SELL_OVERFLOW dwGold: 600 < dwShopBuyPrice 900
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3039  Suliþã pãianjen+9        SELL_OVERFLOW dwGold: 800 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3048  Guisarme+8               SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 3100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3049  Guisarme+9               SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3058  Coasã de rãzboi+8        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 5100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3059  Coasã de rãzboi+9        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7700
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3068  Furcã de luptã+8         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3069  Furcã de luptã+9         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3078  Halebardã+8              SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 15400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3079  Halebardã+9              SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 23100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3088  Secure uriaºã+8          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 20500
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3089  Secure uriaºã+9          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3098  Suliþã gheþar+8          SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 82000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3099  Suliþã gheþar+9          SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 123000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3108  Sabie 12 stafii+8        SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 113000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3109  Sabie 12 stafii+9        SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 169000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3118  Lama Eliberare+8         SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 144000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3119  Lama Eliberare+9         SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 215000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3128  Ucigãtor de lei+8        SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 185000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3129  Ucigãtor de lei+9        SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 277000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3138  Lance partizan+8         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3139  Lance partizan+9         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3148  Lama Magnetica+8         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3149  Lama Magnetica+9         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3150  Lama Semi-Om+0           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 445000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3151  Lama Semi-Om+1           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 460000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3152  Lama Semi-Om+2           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 535000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3153  Lama Semi-Om+3           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 700000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3154  Lama Semi-Om+4           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1100000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3155  Lama Semi-Om+5           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1400000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3156  Lama Semi-Om+6           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1420000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3157  Lama Semi-Om+7           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1440000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3158  Lama Semi-Om+8           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1480000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3159  Lama Semi-Om+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 1520000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3169  Sabia mâniei+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 385000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3217  Lama Fier Rosu+7         SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3218  Lama Fier Rosu+8         SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #3219  Lama Fier Rosu+9         SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 46200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #4009  Amija+9                  SELL_OVERFLOW dwGold: 400 < dwShopBuyPrice 600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #4019  Noua Lame+9              SELL_OVERFLOW dwGold: 800 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #4028  Cuþit scurt+8            SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 5100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #4029  Cuþit scurt+9            SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7700
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #4048  Cuþit neînsufleþit+8     SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #4049  Cuþit neînsufleþit+9     SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5009  Clopot de Cupru+9        SELL_OVERFLOW dwGold: 600 < dwShopBuyPrice 900
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5019  Clopot Argintiu+9        SELL_OVERFLOW dwGold: 800 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5028  Clopot Auriu+8           SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 3100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5029  Clopot Auriu+9           SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5038  Clopot de Jad+8          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5039  Clopot de Jad+9          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5048  Clopot de Fantana+8      SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 15400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5049  Clopot de Fantana+9      SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 23100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5058  Clopot Caisa+8           SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 20500
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5059  Clopot Caisa+9           SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5068  Clopot Magic+8           SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 113000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5069  Clopot Magic+9           SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 169000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5078  Clopot Gandac Auriu+8    SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 144000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5079  Clopot Gandac Auriu+9    SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 215000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5088  Clopot Gandac de Otel+8  SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 185000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5089  Clopot Gandac de Otel+9  SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 277000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5098  Clopot Pasãrea Tunet+8   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5099  Clopot Pasãrea Tunet+9   SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5108  Clopot Cer&Pamant+8      SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5109  Clopot Cer&Pamant+9      SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5116  Clopot Antic+6           SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 16300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5117  Clopot Antic+7           SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5118  Clopot Antic+8           SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5119  Clopot Antic+9           SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 46200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5128  Clopot Orhidee+8         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5129  Clopot Orhidee+9         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5138  Clopot Cosas+8           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5139  Clopot Cosas+9           SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5148  Clopot Dragon+8          SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5149  Clopot Dragon+9          SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5158  Clopot Hibiscus+8        SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #5159  Clopot Hibiscus+9        SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6009  Torta de Otel+9          SELL_OVERFLOW dwGold: 400 < dwShopBuyPrice 600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6017  Sulita Phoenix+7         SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6018  Sulita Phoenix+8         SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6019  Sulita Phoenix+9         SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 46200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6028  Gheara de Fier+8         SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 82000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6029  Gheara de Fier+9         SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 123000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6038  Gheara de Otel+8         SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 113000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6039  Gheara de Otel+9         SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 169000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6048  Gheara de Grifon+8       SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 185000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6049  Gheara de Grifon+9       SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 277000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6058  Gheara de Scarabeu+8     SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 144000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6059  Gheara de Scarabeu+9     SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 215000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6068  Gheara de Soim+8         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6069  Gheara de Soim+9         SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6078  Gheara Ascutita+8        SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6079  Gheara Ascutita+9        SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6088  Dinte Lup Verde+8        SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #6089  Dinte Lup Verde+9        SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7009  Evantai+9                SELL_OVERFLOW dwGold: 100 < dwShopBuyPrice 150
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7019  Evantai de Fier+9        SELL_OVERFLOW dwGold: 400 < dwShopBuyPrice 600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7029  Evantai Tigru Negru+9    SELL_OVERFLOW dwGold: 600 < dwShopBuyPrice 900
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7039  Evantai Pana Cocorului+9 SELL_OVERFLOW dwGold: 800 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7048  Evantai Paun+8           SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 3100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7049  Evantai Paun+9           SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7058  Evantai Acvatic+8        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 5100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7059  Evantai Acvatic+9        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7700
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7068  Evantai de Piatra+8      SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7069  Evantai de Piatra+9      SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12300
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7078  Evantai Oceanic+8        SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 15400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7079  Evantai Oceanic+9        SELL_OVERFLOW dwGold: 15000 < dwShopBuyPrice 23100
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7088  Evantai Intepatura+8     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 20500
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7089  Evantai Intepatura+9     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7098  Evantai Phoenix+8        SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 82000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7099  Evantai Phoenix+9        SELL_OVERFLOW dwGold: 80000 < dwShopBuyPrice 123000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7108  Evantai Triplu+8         SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 113000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7109  Evantai Triplu+9         SELL_OVERFLOW dwGold: 110000 < dwShopBuyPrice 169000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7118  Evantai Spranceana+8     SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 144000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7119  Evantai Spranceana+9     SELL_OVERFLOW dwGold: 140000 < dwShopBuyPrice 215000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7128  Evantai Soare+8          SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 185000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7129  Evantai Soare+9          SELL_OVERFLOW dwGold: 180000 < dwShopBuyPrice 277000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7138  Ev. pãsarea cerului+8    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7139  Ev. pãsarea cerului+9    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7148  Evantaiul Mantuirii+8    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 369000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7149  Evantaiul Mantuirii+9    SELL_OVERFLOW dwGold: 360000 < dwShopBuyPrice 554000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7150  Evantai Extaz+0          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 445000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7151  Evantai Extaz+1          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 460000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7152  Evantai Extaz+2          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 535000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7153  Evantai Extaz+3          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 700000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7154  Evantai Extaz+4          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 1100000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7155  Evantai Extaz+5          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 1400000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7156  Evantai Extaz+6          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 1420000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7157  Evantai Extaz+7          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 1440000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7158  Evantai Extaz+8          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 1480000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7159  Evantai Extaz+9          SELL_OVERFLOW dwGold: 30000 < dwShopBuyPrice 1520000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7167  Evantai Vant de Toamna+7 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7168  Evantai Vant de Toamna+8 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 30800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #7169  Evantai Vant de Toamna+9 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 46200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11207 Platosa de Calugar+7     SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11208 Platosa de Calugar+8     SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 8000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11209 Platosa de Calugar+9     SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 16000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11217 Blindaj placã de fier+7  SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11218 Blindaj placã de fier+8  SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 13000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11219 Blindaj placã de fier+9  SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 27000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11227 Platosa de Tigru+7       SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 11000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11228 Platosa de Tigru+8       SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 20000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11229 Platosa de Tigru+9       SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 43000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11407 Costum de azur+7         SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11408 Costum de azur+8         SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 8000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11409 Costum de azur+9         SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 16000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11417 Costum de fildeº+7       SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11418 Costum de fildeº+8       SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 13000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11419 Costum de fildeº+9       SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 27000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11427 Costum roºu scarlatin+7  SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 11000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11428 Costum roºu scarlatin+8  SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 20000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11429 Costum roºu scarlatin+9  SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 43000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11607 Platosa Recviem+7        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11608 Platosa Recviem+8        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 8000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11609 Platosa Recviem+9        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 16000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11617 Armura Furtuna+7         SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11618 Armura Furtuna+8         SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 13000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11619 Armura Furtuna+9         SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 27000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11627 Platoºã Ghinion+7        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 11000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11628 Platoºã Ghinion+8        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 20000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11629 Platoºã Ghinion+9        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 43000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11807 Vesmant de azur+7        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11808 Vesmant de azur+8        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 8000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11809 Vesmant de azur+9        SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 16000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11817 Veºmânt turcoaz+7        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 7000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11818 Veºmânt turcoaz+8        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 13000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11819 Veºmânt turcoaz+9        SELL_OVERFLOW dwGold: 5000 < dwShopBuyPrice 27000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11827 Veºmânt trandafiriu+7    SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 11000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11828 Veºmânt trandafiriu+8    SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 20000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #11829 Veºmânt trandafiriu+9    SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 43000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12205 Coif tradiþional+5       SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12206 Coif tradiþional+6       SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12207 Coif tradiþional+7       SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12208 Coif tradiþional+8       SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 2600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12209 Coif tradiþional+9       SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12224 Coif de fier+4           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12225 Coif de fier+5           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12226 Coif de fier+6           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 18600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12227 Coif de fier+7           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 28000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12228 Coif de fier+8           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 42000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12229 Coif de fier+9           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 63000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12244 Coif Masca Stafiei+4     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12245 Coif Masca Stafiei+5     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12246 Coif Masca Stafiei+6     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12247 Coif Masca Stafiei+7     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12248 Coif Masca Stafiei+8     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12249 Coif Masca Stafiei+9     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12264 Mascã de Fricã +4        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12265 Mascã de Fricã +5        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12266 Mascã de Fricã +6        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12267 Mascã de Fricã +7        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12268 Mascã de Fricã +8        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12269 Mascã de Fricã +9        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12284 Cascã Maestrul Rãzboi +4 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12285 Cascã Maestrul Rãzboi +5 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12286 Cascã Maestrul Rãzboi +6 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12287 Cascã Maestrul Rãzboi +7 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12288 Cascã Maestrul Rãzboi +8 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12289 Cascã Maestrul Rãzboi +9 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12345 Gluga de piele+5         SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12346 Gluga de piele+6         SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12347 Gluga de piele+7         SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12348 Gluga de piele+8         SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 2600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12349 Gluga de piele+9         SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12364 Gluga de zale+4          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12365 Gluga de zale+5          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12366 Gluga de zale+6          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 18600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12367 Gluga de zale+7          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 28000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12368 Gluga de zale+8          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 42000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12369 Gluga de zale+9          SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 63000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12384 Glugã de Oþel+4          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12385 Glugã de Oþel+5          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12386 Glugã de Oþel+6          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12387 Glugã de Oþel+7          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12388 Glugã de Oþel+8          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12389 Glugã de Oþel+9          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12394 Gluga de Orc +4          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12395 Gluga de Orc +5          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12396 Gluga de Orc +6          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12397 Gluga de Orc +7          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12398 Gluga de Orc +8          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12399 Gluga de Orc +9          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12404 Gluga de Pãianjen +4     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12405 Gluga de Pãianjen +5     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12406 Gluga de Pãianjen +6     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12407 Gluga de Pãianjen +7     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12408 Gluga de Pãianjen +8     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12409 Gluga de Pãianjen +9     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12485 Coif însângerat+5        SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12486 Coif însângerat+6        SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12487 Coif însângerat+7        SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12488 Coif însângerat+8        SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 2600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12489 Coif însângerat+9        SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12504 Coif blasfemie+4         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12505 Coif blasfemie+5         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12506 Coif blasfemie+6         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 18600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12507 Coif blasfemie+7         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 28000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12508 Coif blasfemie+8         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 42000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12509 Coif blasfemie+9         SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 63000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12524 Coif cetate+4            SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12525 Coif cetate+5            SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12526 Coif cetate+6            SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12527 Coif cetate+7            SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12528 Coif cetate+8            SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12529 Coif cetate+9            SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12534 Cascã cu Coarne +4       SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12535 Cascã cu Coarne +5       SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12536 Cascã cu Coarne +6       SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12537 Cascã cu Coarne +7       SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12538 Cascã cu Coarne +8       SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12539 Cascã cu Coarne +9       SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12544 Cascã Magicã +4          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12545 Cascã Magicã +5          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12546 Cascã Magicã +6          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12547 Cascã Magicã +7          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12548 Cascã Magicã +8          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12549 Cascã Magicã +9          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12625 Pãlãrie de cãlugãr+5     SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12626 Pãlãrie de cãlugãr+6     SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12627 Pãlãrie de cãlugãr+7     SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1800
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12628 Pãlãrie de cãlugãr+8     SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 2600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12629 Pãlãrie de cãlugãr+9     SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12644 Pãlãrie Phoenix+4        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12645 Pãlãrie Phoenix+5        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12400
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12646 Pãlãrie Phoenix+6        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 18600
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12647 Pãlãrie Phoenix+7        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 28000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12648 Pãlãrie Phoenix+8        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 42000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12649 Pãlãrie Phoenix+9        SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 63000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12664 Pãlãrie lum. soarelui+4  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12665 Pãlãrie lum. soarelui+5  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12666 Pãlãrie lum. soarelui+6  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12667 Pãlãrie lum. soarelui+7  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12668 Pãlãrie lum. soarelui+8  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12669 Pãlãrie lum. soarelui+9  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12674 Pãlãria Cardinalului +4  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12675 Pãlãria Cardinalului +5  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12676 Pãlãria Cardinalului +6  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12677 Pãlãria Cardinalului +7  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12678 Pãlãria Cardinalului +8  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12679 Pãlãria Cardinalului +9  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12684 Pãlãrie Suflet Ciobit +4 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12685 Pãlãrie Suflet Ciobit +5 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12686 Pãlãrie Suflet Ciobit +6 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12687 Pãlãrie Suflet Ciobit +7 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12688 Pãlãrie Suflet Ciobit +8 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12689 Pãlãrie Suflet Ciobit +9 SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12694 Coif Oþel Dragon +4      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12695 Coif Oþel Dragon +5      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12696 Coif Oþel Dragon +6      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12697 Coif Oþel Dragon +7      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12698 Coif Oþel Dragon +8      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12699 Coif Oþel Dragon +9      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12704 Glugã Dragon +4          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12705 Glugã Dragon +5          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12706 Glugã Dragon +6          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12707 Glugã Dragon +7          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12708 Glugã Dragon +8          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12709 Glugã Dragon +9          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12714 Coif Solzi Dragon +4     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12715 Coif Solzi Dragon +5     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12716 Coif Solzi Dragon +6     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12717 Coif Solzi Dragon +7     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12718 Coif Solzi Dragon +8     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12719 Coif Solzi Dragon +9     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12724 Pãlãrie Dragon +4        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12725 Pãlãrie Dragon +5        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12726 Pãlãrie Dragon +6        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12727 Pãlãrie Dragon +7        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12728 Pãlãrie Dragon +8        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12729 Pãlãrie Dragon +9        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12734 Coif Oþel Dragoneer+4    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12735 Coif Oþel Dragoneer+5    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12736 Coif Oþel Dragoneer+6    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12737 Coif Oþel Dragoneer+7    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12738 Coif Oþel Dragoneer+8    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12739 Coif Oþel Dragoneer+9    SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12744 Glugã Dragoneer+4        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12745 Glugã Dragoneer+5        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12746 Glugã Dragoneer+6        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12747 Glugã Dragoneer+7        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12748 Glugã Dragoneer+8        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12749 Glugã Dragoneer+9        SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12754 Coif Solzi Dragoneer+4   SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12755 Coif Solzi Dragoneer+5   SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12756 Coif Solzi Dragoneer+6   SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12757 Coif Solzi Dragoneer+7   SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12758 Coif Solzi Dragoneer+8   SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12759 Coif Solzi Dragoneer+9   SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12764 Pãlãrie Dragoneer+4      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12765 Pãlãrie Dragoneer+5      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12766 Pãlãrie Dragoneer+6      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12767 Pãlãrie Dragoneer+7      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12768 Pãlãrie Dragoneer+8      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12769 Pãlãrie Dragoneer+9      SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12774 Coif Coarne Dragoneer+4  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12775 Coif Coarne Dragoneer+5  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12776 Coif Coarne Dragoneer+6  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12777 Coif Coarne Dragoneer+7  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12778 Coif Coarne Dragoneer+8  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12779 Coif Coarne Dragoneer+9  SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12789 Coif Dragon Negru +9     SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12790 Coif Dragon Negru +10    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12791 Coif Dragon Negru +11    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12792 Coif Dragon Negru +12    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12793 Coif Dragon Negru +13    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12794 Coif Dragon Negru +14    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12795 Coif Dragon Negru +15    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12809 Coif Dragon Furios +9    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12810 Coif Dragon Furios +10   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12811 Coif Dragon Furios +11   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12812 Coif Dragon Furios +12   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12813 Coif Dragon Furios +13   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12814 Coif Dragon Furios +14   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12815 Coif Dragon Furios +15   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12829 Coif Dragon Vrãjit +9    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12830 Coif Dragon Vrãjit +10   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12831 Coif Dragon Vrãjit +11   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12832 Coif Dragon Vrãjit +12   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12833 Coif Dragon Vrãjit +13   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12834 Coif Dragon Vrãjit +14   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12835 Coif Dragon Vrãjit +15   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12849 Coif Dragon Înfocat +9   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12850 Coif Dragon Înfocat +10  SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12851 Coif Dragon Înfocat +11  SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12852 Coif Dragon Înfocat +12  SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12853 Coif Dragon Înfocat +13  SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12854 Coif Dragon Înfocat +14  SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12855 Coif Dragon Înfocat +15  SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12869 Coif Dragon Astral +9    SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12870 Coif Dragon Astral +10   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12871 Coif Dragon Astral +11   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12872 Coif Dragon Astral +12   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12873 Coif Dragon Astral +13   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12874 Coif Dragon Astral +14   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:48 :: Set_Proto_Item_Table: ITEM: #12875 Coif Dragon Astral +15   SELL_OVERFLOW dwGold: 120000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21007 Armura Vant Divin+7      SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21008 Armura Vant Divin+8      SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 8000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21009 Armura Vant Divin+9      SELL_OVERFLOW dwGold: 3000 < dwShopBuyPrice 16000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21505 Coif Schelet+5           SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 800
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21506 Coif Schelet+6           SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21507 Coif Schelet+7           SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 1800
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21508 Coif Schelet+8           SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 2600
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21509 Coif Schelet+9           SELL_OVERFLOW dwGold: 500 < dwShopBuyPrice 4000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21514 Coif Ebonita+4           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 8200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21515 Coif Ebonita+5           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 12400
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21516 Coif Ebonita+6           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 18600
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21517 Coif Ebonita+7           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 28000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21518 Coif Ebonita+8           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 42000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21519 Coif Ebonita+9           SELL_OVERFLOW dwGold: 8000 < dwShopBuyPrice 63000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21524 Coif Tunet+4             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21525 Coif Tunet+5             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21526 Coif Tunet+6             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21527 Coif Tunet+7             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21528 Coif Tunet+8             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21529 Coif Tunet+9             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21534 Coif Sfant+4             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21535 Coif Sfant+5             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21536 Coif Sfant+6             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21537 Coif Sfant+7             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21538 Coif Sfant+8             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21539 Coif Sfant+9             SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21544 Coif Lemn Viridian+4     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21545 Coif Lemn Viridian+5     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21546 Coif Lemn Viridian+6     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21547 Coif Lemn Viridian+7     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21548 Coif Lemn Viridian+8     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21549 Coif Lemn Viridian+9     SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21554 Cascã Dragon +4          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 22000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21555 Cascã Dragon +5          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 34000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21556 Cascã Dragon +6          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 52000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21557 Cascã Dragon +7          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 78000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21558 Cascã Dragon +8          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 118000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #21559 Cascã Dragon +9          SELL_OVERFLOW dwGold: 20000 < dwShopBuyPrice 178000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30192 Seva Plantei             SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 2400
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30193 Oasele Degetului         SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 2400
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30194 Buzduganul Orcilor       SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 2400
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30195 Nisip Cuarþ              SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 2400
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30196 Cenuºa Demonului         SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 4800
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30197 Seminþe Magice           SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 4800
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30198 Cristal de Apã           SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 4800
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30199 Cristal Albastru         SELL_OVERFLOW dwGold: 300 < dwShopBuyPrice 6000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #30202 Urechea lui Tanaka       SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 500
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #38060 Sacul Emoþiilor          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50002 Inel de aur              SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 10000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50006 Cufãr Auriu Comori       SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50007 Cufãr Argintiu Comori    SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50008 Cheie de aur             SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50009 Cheie de argint          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50012 Cufãr Auriu Comori+      SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50013 Cufãr Argintiu Comori+   SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50014 Cheie de aur+            SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50015 Cheie de argint+         SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50016 Pastã de fasole          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50017 Pastã de zahãr           SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50018 Pastã de fructe          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50019 Orez dulce               SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50020 Plãcintã de fasole       SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50021 Plãcintã de zahãr        SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50022 Plãcintã de fructe       SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50023 Tolbã de bani            SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50028 Inel de aur 999          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 50000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50029 Inel de aur 750          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 10000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50030 Inel de aur 585          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50043 Cheie Kelpie             SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 200
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50060 Manualul de cãlãrie      SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50061 manual de îmblânzit cai  SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50062 manual pt. cãlãreþ       SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50307 Cartea misiunii (uºor)   SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50308 Cartea misiunii (normal) SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50309 Cartea misiunii (greu)   SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50310 Cartea misiunii (expert) SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50311 Limbi Shinsoo            SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50312 Limbi Chunjo             SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50313 Limbi Jinno              SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50314 Cartea transformãrii     SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50315 Cartea transformãrii av. SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50316 Cartea transformãrii exp SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50317 Cartea misiunii (Test)   SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50318 Cartea misiunii (usor)   SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50319 Cartea misiunii (normal) SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50320 Cartea misiunii (greu)   SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50321 Cartea misiunii (expert) SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50322 Rolul transformarii      SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50330 Cartea Misiunii (Lord 1) SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50331 Cartea Misiunii (Lord 2) SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50332 Cartea Misiunii (Lord 3) SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50902 Reþetã pentru începãtori SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50903 Reþetã                   SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #50904 Reþetã pt. profesioniºti SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #55028 Gustare Delicioasã       SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 160000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #55031 Gustare Delicioasã+      SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #55033 Însoþitor Magic          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70048 Mantia Secretelor        SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 10000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70049 Inelul lui Lucy          SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 10000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70050 Semnul Regelui Intelept  SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 10000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70051 Manusa Regelui Intelept  SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 10000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70102 Boabã Zen                SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 1000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70103 Sutra                    SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 10000
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70104 Globul transformãrii     SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70105 Globul transformãrii     SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70106 Globul transformãrii     SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70107 Globul transformãrii     SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70201 Înãlbitor                SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70202 Colorant alb de pãr      SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70203 Colorant blond de pãr    SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70204 Colorant roºu de pãr     SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70205 Colorant maro de pãr     SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #70206 Colorant negru de pãr    SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 60
+SYSERR: Dec 25 15:08:49 :: Set_Proto_Item_Table: ITEM: #80008 Bucatã de aur            SELL_OVERFLOW dwGold: 0 < dwShopBuyPrice 100000

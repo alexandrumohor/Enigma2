@@ -1,0 +1,68 @@
+Dec 25 15:08:51 :: 
+Start of pid: 5977
+
+Dec 25 15:08:51 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 12)
+Dec 25 15:08:51 :: SYSTEM: BINDING TCP PORT ON [30002] (fd 13)
+Dec 25 15:08:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Dec 25 15:08:51 :: SYSTEM: connected to server (fd 14, ptr 0x214ba400)
+Dec 25 15:08:51 :: Initializing Guild
+Dec 25 15:08:51 :: 	No need for auth server
+Dec 25 15:08:51 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+Dec 25 15:08:51 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+Dec 25 15:08:51 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+Dec 25 15:08:51 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+Dec 25 15:08:51 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+Dec 25 15:08:51 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+Dec 25 15:08:51 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+Dec 25 15:08:51 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+Dec 25 15:08:51 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+Dec 25 15:08:51 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+Dec 25 15:08:51 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+Dec 25 15:08:51 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+Dec 25 15:08:51 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+Dec 25 15:08:51 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+Dec 25 15:08:51 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+Dec 25 15:08:51 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+Dec 25 15:08:51 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+Dec 25 15:08:51 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+Dec 25 15:08:51 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+Dec 25 15:08:51 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+Dec 25 15:08:51 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+Dec 25 15:08:51 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+Dec 25 15:08:51 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+Dec 25 15:08:51 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+Dec 25 15:08:51 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+Dec 25 15:08:51 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+Dec 25 15:08:51 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+Dec 25 15:08:51 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+Dec 25 15:08:51 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+Dec 25 15:08:51 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+Dec 25 15:08:51 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+Dec 25 15:08:51 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+Dec 25 15:08:51 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+Dec 25 15:08:51 :: FISH: ¼±¿ÕÀÇ Àå°©              vnum 70051 prob   25   25  200  100 len 0 0 0
+Dec 25 15:08:51 :: FISH: ±Ýµ¢¾î¸®                 vnum 80008 prob   25   25  100  100 len 0 0 0
+Dec 25 15:08:51 :: FISH: Àº¿­¼è                   vnum 50009 prob    0    0  150  100 len 0 0 0
+Dec 25 15:08:51 :: FISH: ±Ý¿­¼è                   vnum 50008 prob    0    0  100   50 len 0 0 0
+Dec 25 15:08:51 :: FISH: prob table 0 9950
+Dec 25 15:08:51 :: FISH: prob table 1 9950
+Dec 25 15:08:51 :: FISH: prob table 2 9800
+Dec 25 15:08:51 :: FISH: prob table 3 9900
+Dec 25 15:08:51 :: Cube_Init locale/germany/cube.txt
+Dec 25 15:08:51 :: Blend_Item_init locale/germany/blend.txt 
+Dec 25 15:08:51 :: [PackageCryptInfo] . is not crypt file. pass!
+Dec 25 15:08:51 :: [PackageCryptInfo] .. is not crypt file. pass!
+Dec 25 15:09:01 :: SYSTEM: new connection from [192.168.52.1] fd: 15 handshake 2318081210 output input_len 0, ptr 0x214bd700
+Dec 25 15:09:01 :: Handshake: client_time 0 server_time 10786
+Dec 25 15:09:01 :: AUTH_PHASE 0x214bd700
+Dec 25 15:09:01 :: InputAuth::Login : alexmohor(9) desc 0x214bd700
+Dec 25 15:09:01 :: SetLoginKey 1092257577
+Dec 25 15:09:01 :: InputAuth::Login : key 1092257577:0x53898469 login alexmohor
+Dec 25 15:09:01 :: QID_AUTH_LOGIN: START 1092257577 0x214bd700
+Dec 25 15:09:01 :: Create_Time 1766670511 20251225
+Dec 25 15:09:01 :: Block Time -1 
+Dec 25 15:09:01 :: QID_AUTH_LOGIN: SUCCESS alexmohor
+Dec 25 15:09:01 :: SendAuthLogin alexmohor key 1
+Dec 25 15:09:01 :: AuthLogin result 1 key 1092257577
+Dec 25 15:09:02 :: SYSTEM: closing socket. DESC #15
+Dec 25 16:00:00 :: SYSTEM: LOG ROTATE (2025-12-25 15)

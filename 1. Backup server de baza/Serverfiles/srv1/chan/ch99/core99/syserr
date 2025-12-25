@@ -1,0 +1,19 @@
+SYSERR: Dec 25 15:08:53 :: GetApplyNumSettings: Invalid basis value. DragonSoulGroup(¹é·æ¼®) Grade(grade_myth)
+SYSERR: Dec 25 15:08:53 :: CheckApplyNumSettings: In ¹é·æ¼® group of ApplyNumSettings, values in Grade(grade_myth) row is invalid.
+SYSERR: Dec 25 15:08:53 :: ReadDragonSoulTableFile: DragonSoul table Check failed.
+SYSERR: Dec 25 15:08:53 :: Boot: cannot load DragonSoulTable: locale/germany/dragon_soul_table.txt
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: yamachun have not motlist.txt vnum(6437) folder(yamachun)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: yamachun have not motlist.txt vnum(6437) folder(yamachun)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: yamachun have not motlist.txt vnum(6437) folder(yamachun)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: easter_2023_rabbit have not motlist.txt vnum(20289) folder(easter_2023_rabbit)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: easter_2023_rabbit have not motlist.txt vnum(20289) folder(easter_2023_rabbit)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: easter_2023_rabbit have not motlist.txt vnum(20289) folder(easter_2023_rabbit)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: easter_2023_rabbit have not motlist.txt vnum(20290) folder(easter_2023_rabbit)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: easter_2023_rabbit have not motlist.txt vnum(20290) folder(easter_2023_rabbit)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: easter_2023_rabbit have not motlist.txt vnum(20290) folder(easter_2023_rabbit)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: reddragon_room_box have not motlist.txt vnum(20710) folder(reddragon_room_box)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: reddragon_room_box have not motlist.txt vnum(20710) folder(reddragon_room_box)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: reddragon_room_box have not motlist.txt vnum(20710) folder(reddragon_room_box)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: ice_keybox have not motlist.txt vnum(20714) folder(ice_keybox)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: ice_keybox have not motlist.txt vnum(20714) folder(ice_keybox)
+SYSERR: Dec 25 15:08:53 :: GetMotionFileName: Motion: ice_keybox have not motlist.txt vnum(20714) folder(ice_keybox)

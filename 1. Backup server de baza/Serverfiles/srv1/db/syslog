@@ -1,0 +1,656 @@
+Dec 25 19:00:00 :: [   346800] return 0/0/0 async 0/0/0
+Dec 25 19:00:02 :: [   346850] return 0/0/0 async 0/0/0
+Dec 25 19:00:04 :: [   346900] return 0/0/1 async 0/0/0
+Dec 25 19:00:06 :: [   346950] return 0/0/0 async 0/0/0
+Dec 25 19:00:08 :: [   347000] return 0/0/0 async 0/0/0
+Dec 25 19:00:10 :: [   347050] return 0/0/0 async 0/0/0
+Dec 25 19:00:12 :: [   347100] return 0/0/0 async 0/0/0
+Dec 25 19:00:14 :: [   347150] return 0/0/1 async 0/0/0
+Dec 25 19:00:16 :: [   347200] return 0/0/0 async 0/0/0
+Dec 25 19:00:18 :: [   347250] return 0/0/0 async 0/0/0
+Dec 25 19:00:20 :: [   347300] return 0/0/0 async 0/0/0
+Dec 25 19:00:22 :: [   347350] return 0/0/0 async 0/0/0
+Dec 25 19:00:24 :: [   347400] return 0/0/1 async 0/0/0
+Dec 25 19:00:26 :: [   347450] return 0/0/0 async 0/0/0
+Dec 25 19:00:28 :: [   347500] return 0/0/0 async 0/0/0
+Dec 25 19:00:30 :: [   347550] return 0/0/0 async 0/0/0
+Dec 25 19:00:32 :: [   347600] return 0/0/0 async 0/0/0
+Dec 25 19:00:34 :: [   347650] return 0/0/1 async 0/0/0
+Dec 25 19:00:36 :: [   347700] return 0/0/0 async 0/0/0
+Dec 25 19:00:38 :: [   347750] return 0/0/0 async 0/0/0
+Dec 25 19:00:40 :: [   347800] return 0/0/0 async 0/0/0
+Dec 25 19:00:42 :: [   347850] return 0/0/0 async 0/0/0
+Dec 25 19:00:44 :: [   347900] return 0/0/1 async 0/0/0
+Dec 25 19:00:46 :: [   347950] return 0/0/0 async 0/0/0
+Dec 25 19:00:48 :: [   348000] return 0/0/0 async 0/0/0
+Dec 25 19:00:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:00:50 :: [   348050] return 0/0/0 async 0/0/0
+Dec 25 19:00:52 :: [   348100] return 0/0/0 async 0/0/0
+Dec 25 19:00:54 :: [   348150] return 0/0/1 async 0/0/0
+Dec 25 19:00:56 :: [   348200] return 0/0/0 async 0/0/0
+Dec 25 19:00:58 :: [   348250] return 0/0/0 async 0/0/0
+Dec 25 19:01:00 :: [   348300] return 0/0/0 async 0/0/0
+Dec 25 19:01:02 :: [   348350] return 0/0/0 async 0/0/0
+Dec 25 19:01:04 :: [   348400] return 0/0/1 async 0/0/0
+Dec 25 19:01:06 :: [   348450] return 0/0/0 async 0/0/0
+Dec 25 19:01:08 :: [   348500] return 0/0/0 async 0/0/0
+Dec 25 19:01:10 :: [   348550] return 0/0/0 async 0/0/0
+Dec 25 19:01:12 :: [   348600] return 0/0/0 async 0/0/0
+Dec 25 19:01:14 :: [   348650] return 0/0/1 async 0/0/0
+Dec 25 19:01:16 :: [   348700] return 0/0/0 async 0/0/0
+Dec 25 19:01:18 :: [   348750] return 0/0/0 async 0/0/0
+Dec 25 19:01:20 :: [   348800] return 0/0/0 async 0/0/0
+Dec 25 19:01:22 :: [   348850] return 0/0/0 async 0/0/0
+Dec 25 19:01:24 :: [   348900] return 0/0/1 async 0/0/0
+Dec 25 19:01:26 :: [   348950] return 0/0/0 async 0/0/0
+Dec 25 19:01:28 :: [   349000] return 0/0/0 async 0/0/0
+Dec 25 19:01:30 :: [   349050] return 0/0/0 async 0/0/0
+Dec 25 19:01:32 :: [   349100] return 0/0/0 async 0/0/0
+Dec 25 19:01:34 :: [   349150] return 0/0/1 async 0/0/0
+Dec 25 19:01:36 :: [   349200] return 0/0/0 async 0/0/0
+Dec 25 19:01:38 :: [   349250] return 0/0/0 async 0/0/0
+Dec 25 19:01:40 :: [   349300] return 0/0/0 async 0/0/0
+Dec 25 19:01:42 :: [   349350] return 0/0/0 async 0/0/0
+Dec 25 19:01:44 :: [   349400] return 0/0/1 async 0/0/0
+Dec 25 19:01:46 :: [   349450] return 0/0/0 async 0/0/0
+Dec 25 19:01:48 :: [   349500] return 0/0/0 async 0/0/0
+Dec 25 19:01:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:01:50 :: [   349550] return 0/0/0 async 0/0/0
+Dec 25 19:01:52 :: [   349600] return 0/0/0 async 0/0/0
+Dec 25 19:01:54 :: [   349650] return 0/0/1 async 0/0/0
+Dec 25 19:01:56 :: [   349700] return 0/0/0 async 0/0/0
+Dec 25 19:01:58 :: [   349750] return 0/0/0 async 0/0/0
+Dec 25 19:02:00 :: [   349800] return 0/0/0 async 0/0/0
+Dec 25 19:02:02 :: [   349850] return 0/0/0 async 0/0/0
+Dec 25 19:02:04 :: [   349900] return 0/0/1 async 0/0/0
+Dec 25 19:02:06 :: [   349950] return 0/0/0 async 0/0/0
+Dec 25 19:02:08 :: [   350000] return 0/0/0 async 0/0/0
+Dec 25 19:02:10 :: [   350050] return 0/0/0 async 0/0/0
+Dec 25 19:02:12 :: [   350100] return 0/0/0 async 0/0/0
+Dec 25 19:02:14 :: [   350150] return 0/0/1 async 0/0/0
+Dec 25 19:02:16 :: [   350200] return 0/0/0 async 0/0/0
+Dec 25 19:02:18 :: [   350250] return 0/0/0 async 0/0/0
+Dec 25 19:02:20 :: [   350300] return 0/0/0 async 0/0/0
+Dec 25 19:02:22 :: [   350350] return 0/0/0 async 0/0/0
+Dec 25 19:02:24 :: [   350400] return 0/0/1 async 0/0/0
+Dec 25 19:02:26 :: [   350450] return 0/0/0 async 0/0/0
+Dec 25 19:02:28 :: [   350500] return 0/0/0 async 0/0/0
+Dec 25 19:02:30 :: [   350550] return 0/0/0 async 0/0/0
+Dec 25 19:02:32 :: [   350600] return 0/0/0 async 0/0/0
+Dec 25 19:02:34 :: [   350650] return 0/0/1 async 0/0/0
+Dec 25 19:02:36 :: [   350700] return 0/0/0 async 0/0/0
+Dec 25 19:02:38 :: [   350750] return 0/0/0 async 0/0/0
+Dec 25 19:02:40 :: [   350800] return 0/0/0 async 0/0/0
+Dec 25 19:02:42 :: [   350850] return 0/0/0 async 0/0/0
+Dec 25 19:02:44 :: [   350900] return 0/0/1 async 0/0/0
+Dec 25 19:02:46 :: [   350950] return 0/0/0 async 0/0/0
+Dec 25 19:02:48 :: [   351000] return 0/0/0 async 0/0/0
+Dec 25 19:02:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:02:50 :: [   351050] return 0/0/0 async 0/0/0
+Dec 25 19:02:52 :: [   351100] return 0/0/0 async 0/0/0
+Dec 25 19:02:54 :: [   351150] return 0/0/1 async 0/0/0
+Dec 25 19:02:56 :: [   351200] return 0/0/0 async 0/0/0
+Dec 25 19:02:58 :: [   351250] return 0/0/0 async 0/0/0
+Dec 25 19:03:00 :: [   351300] return 0/0/0 async 0/0/0
+Dec 25 19:03:02 :: [   351350] return 0/0/0 async 0/0/0
+Dec 25 19:03:04 :: [   351400] return 0/0/1 async 0/0/0
+Dec 25 19:03:06 :: [   351450] return 0/0/0 async 0/0/0
+Dec 25 19:03:08 :: [   351500] return 0/0/0 async 0/0/0
+Dec 25 19:03:10 :: [   351550] return 0/0/0 async 0/0/0
+Dec 25 19:03:12 :: [   351600] return 0/0/0 async 0/0/0
+Dec 25 19:03:14 :: [   351650] return 0/0/1 async 0/0/0
+Dec 25 19:03:16 :: [   351700] return 0/0/0 async 0/0/0
+Dec 25 19:03:18 :: [   351750] return 0/0/0 async 0/0/0
+Dec 25 19:03:20 :: [   351800] return 0/0/0 async 0/0/0
+Dec 25 19:03:22 :: [   351850] return 0/0/0 async 0/0/0
+Dec 25 19:03:24 :: [   351900] return 0/0/1 async 0/0/0
+Dec 25 19:03:26 :: [   351950] return 0/0/0 async 0/0/0
+Dec 25 19:03:28 :: [   352000] return 0/0/0 async 0/0/0
+Dec 25 19:03:30 :: [   352050] return 0/0/0 async 0/0/0
+Dec 25 19:03:32 :: [   352100] return 0/0/0 async 0/0/0
+Dec 25 19:03:34 :: [   352150] return 0/0/1 async 0/0/0
+Dec 25 19:03:36 :: [   352200] return 0/0/0 async 0/0/0
+Dec 25 19:03:38 :: [   352250] return 0/0/0 async 0/0/0
+Dec 25 19:03:40 :: [   352300] return 0/0/0 async 0/0/0
+Dec 25 19:03:42 :: [   352350] return 0/0/0 async 0/0/0
+Dec 25 19:03:44 :: [   352400] return 0/0/1 async 0/0/0
+Dec 25 19:03:46 :: [   352450] return 0/0/0 async 0/0/0
+Dec 25 19:03:48 :: [   352500] return 0/0/0 async 0/0/0
+Dec 25 19:03:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:03:50 :: [   352550] return 0/0/0 async 0/0/0
+Dec 25 19:03:52 :: [   352600] return 0/0/0 async 0/0/0
+Dec 25 19:03:54 :: [   352650] return 0/0/1 async 0/0/0
+Dec 25 19:03:56 :: [   352700] return 0/0/0 async 0/0/0
+Dec 25 19:03:58 :: [   352750] return 0/0/0 async 0/0/0
+Dec 25 19:04:00 :: [   352800] return 0/0/0 async 0/0/0
+Dec 25 19:04:02 :: [   352850] return 0/0/0 async 0/0/0
+Dec 25 19:04:04 :: [   352900] return 0/0/1 async 0/0/0
+Dec 25 19:04:06 :: [   352950] return 0/0/0 async 0/0/0
+Dec 25 19:04:08 :: [   353000] return 0/0/0 async 0/0/0
+Dec 25 19:04:10 :: [   353050] return 0/0/0 async 0/0/0
+Dec 25 19:04:12 :: [   353100] return 0/0/0 async 0/0/0
+Dec 25 19:04:14 :: [   353150] return 0/0/1 async 0/0/0
+Dec 25 19:04:16 :: [   353200] return 0/0/0 async 0/0/0
+Dec 25 19:04:18 :: [   353250] return 0/0/0 async 0/0/0
+Dec 25 19:04:20 :: [   353300] return 0/0/0 async 0/0/0
+Dec 25 19:04:22 :: [   353350] return 0/0/0 async 0/0/0
+Dec 25 19:04:24 :: [   353400] return 0/0/1 async 0/0/0
+Dec 25 19:04:26 :: [   353450] return 0/0/0 async 0/0/0
+Dec 25 19:04:28 :: [   353500] return 0/0/0 async 0/0/0
+Dec 25 19:04:30 :: [   353550] return 0/0/0 async 0/0/0
+Dec 25 19:04:32 :: [   353600] return 0/0/0 async 0/0/0
+Dec 25 19:04:34 :: [   353650] return 0/0/1 async 0/0/0
+Dec 25 19:04:36 :: [   353700] return 0/0/0 async 0/0/0
+Dec 25 19:04:38 :: [   353750] return 0/0/0 async 0/0/0
+Dec 25 19:04:40 :: [   353800] return 0/0/0 async 0/0/0
+Dec 25 19:04:42 :: [   353850] return 0/0/0 async 0/0/0
+Dec 25 19:04:44 :: [   353900] return 0/0/1 async 0/0/0
+Dec 25 19:04:46 :: [   353950] return 0/0/0 async 0/0/0
+Dec 25 19:04:48 :: [   354000] return 0/0/0 async 0/0/0
+Dec 25 19:04:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:04:50 :: [   354050] return 0/0/0 async 0/0/0
+Dec 25 19:04:52 :: [   354100] return 0/0/0 async 0/0/0
+Dec 25 19:04:54 :: [   354150] return 0/0/1 async 0/0/0
+Dec 25 19:04:56 :: [   354200] return 0/0/0 async 0/0/0
+Dec 25 19:04:58 :: [   354250] return 0/0/0 async 0/0/0
+Dec 25 19:05:00 :: [   354300] return 0/0/0 async 0/0/0
+Dec 25 19:05:02 :: [   354350] return 0/0/0 async 0/0/0
+Dec 25 19:05:04 :: [   354400] return 0/0/1 async 0/0/0
+Dec 25 19:05:06 :: [   354450] return 0/0/0 async 0/0/0
+Dec 25 19:05:08 :: [   354500] return 0/0/0 async 0/0/0
+Dec 25 19:05:10 :: [   354550] return 0/0/0 async 0/0/0
+Dec 25 19:05:12 :: [   354600] return 0/0/0 async 0/0/0
+Dec 25 19:05:14 :: [   354650] return 0/0/1 async 0/0/0
+Dec 25 19:05:16 :: [   354700] return 0/0/0 async 0/0/0
+Dec 25 19:05:18 :: [   354750] return 0/0/0 async 0/0/0
+Dec 25 19:05:20 :: [   354800] return 0/0/0 async 0/0/0
+Dec 25 19:05:22 :: [   354850] return 0/0/0 async 0/0/0
+Dec 25 19:05:24 :: [   354900] return 0/0/1 async 0/0/0
+Dec 25 19:05:26 :: [   354950] return 0/0/0 async 0/0/0
+Dec 25 19:05:28 :: [   355000] return 0/0/0 async 0/0/0
+Dec 25 19:05:30 :: [   355050] return 0/0/0 async 0/0/0
+Dec 25 19:05:32 :: [   355100] return 0/0/0 async 0/0/0
+Dec 25 19:05:34 :: [   355150] return 0/0/1 async 0/0/0
+Dec 25 19:05:36 :: [   355200] return 0/0/0 async 0/0/0
+Dec 25 19:05:38 :: [   355250] return 0/0/0 async 0/0/0
+Dec 25 19:05:40 :: [   355300] return 0/0/0 async 0/0/0
+Dec 25 19:05:42 :: [   355350] return 0/0/0 async 0/0/0
+Dec 25 19:05:44 :: [   355400] return 0/0/1 async 0/0/0
+Dec 25 19:05:46 :: [   355450] return 0/0/0 async 0/0/0
+Dec 25 19:05:48 :: [   355500] return 0/0/0 async 0/0/0
+Dec 25 19:05:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:05:50 :: [   355550] return 0/0/0 async 0/0/0
+Dec 25 19:05:52 :: [   355600] return 0/0/0 async 0/0/0
+Dec 25 19:05:54 :: [   355650] return 0/0/1 async 0/0/0
+Dec 25 19:05:56 :: [   355700] return 0/0/0 async 0/0/0
+Dec 25 19:05:58 :: [   355750] return 0/0/0 async 0/0/0
+Dec 25 19:06:00 :: [   355800] return 0/0/0 async 0/0/0
+Dec 25 19:06:02 :: [   355850] return 0/0/0 async 0/0/0
+Dec 25 19:06:04 :: [   355900] return 0/0/1 async 0/0/0
+Dec 25 19:06:06 :: [   355950] return 0/0/0 async 0/0/0
+Dec 25 19:06:08 :: [   356000] return 0/0/0 async 0/0/0
+Dec 25 19:06:10 :: [   356050] return 0/0/0 async 0/0/0
+Dec 25 19:06:12 :: [   356100] return 0/0/0 async 0/0/0
+Dec 25 19:06:14 :: [   356150] return 0/0/1 async 0/0/0
+Dec 25 19:06:16 :: [   356200] return 0/0/0 async 0/0/0
+Dec 25 19:06:18 :: [   356250] return 0/0/0 async 0/0/0
+Dec 25 19:06:20 :: [   356300] return 0/0/0 async 0/0/0
+Dec 25 19:06:22 :: [   356350] return 0/0/0 async 0/0/0
+Dec 25 19:06:24 :: [   356400] return 0/0/1 async 0/0/0
+Dec 25 19:06:26 :: [   356450] return 0/0/0 async 0/0/0
+Dec 25 19:06:28 :: [   356500] return 0/0/0 async 0/0/0
+Dec 25 19:06:30 :: [   356550] return 0/0/0 async 0/0/0
+Dec 25 19:06:32 :: [   356600] return 0/0/0 async 0/0/0
+Dec 25 19:06:34 :: [   356650] return 0/0/1 async 0/0/0
+Dec 25 19:06:36 :: [   356700] return 0/0/0 async 0/0/0
+Dec 25 19:06:38 :: [   356750] return 0/0/0 async 0/0/0
+Dec 25 19:06:40 :: [   356800] return 0/0/0 async 0/0/0
+Dec 25 19:06:42 :: [   356850] return 0/0/0 async 0/0/0
+Dec 25 19:06:44 :: [   356900] return 0/0/1 async 0/0/0
+Dec 25 19:06:46 :: [   356950] return 0/0/0 async 0/0/0
+Dec 25 19:06:48 :: [   357000] return 0/0/0 async 0/0/0
+Dec 25 19:06:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:06:50 :: [   357050] return 0/0/0 async 0/0/0
+Dec 25 19:06:52 :: [   357100] return 0/0/0 async 0/0/0
+Dec 25 19:06:54 :: [   357150] return 0/0/1 async 0/0/0
+Dec 25 19:06:56 :: [   357200] return 0/0/0 async 0/0/0
+Dec 25 19:06:58 :: [   357250] return 0/0/0 async 0/0/0
+Dec 25 19:07:00 :: [   357300] return 0/0/0 async 0/0/0
+Dec 25 19:07:02 :: [   357350] return 0/0/0 async 0/0/0
+Dec 25 19:07:04 :: [   357400] return 0/0/1 async 0/0/0
+Dec 25 19:07:06 :: [   357450] return 0/0/0 async 0/0/0
+Dec 25 19:07:08 :: [   357500] return 0/0/0 async 0/0/0
+Dec 25 19:07:10 :: [   357550] return 0/0/0 async 0/0/0
+Dec 25 19:07:12 :: [   357600] return 0/0/0 async 0/0/0
+Dec 25 19:07:14 :: [   357650] return 0/0/1 async 0/0/0
+Dec 25 19:07:16 :: [   357700] return 0/0/0 async 0/0/0
+Dec 25 19:07:18 :: [   357750] return 0/0/0 async 0/0/0
+Dec 25 19:07:20 :: [   357800] return 0/0/0 async 0/0/0
+Dec 25 19:07:22 :: [   357850] return 0/0/0 async 0/0/0
+Dec 25 19:07:24 :: [   357900] return 0/0/1 async 0/0/0
+Dec 25 19:07:26 :: [   357950] return 0/0/0 async 0/0/0
+Dec 25 19:07:28 :: [   358000] return 0/0/0 async 0/0/0
+Dec 25 19:07:30 :: [   358050] return 0/0/0 async 0/0/0
+Dec 25 19:07:32 :: [   358100] return 0/0/0 async 0/0/0
+Dec 25 19:07:34 :: [   358150] return 0/0/1 async 0/0/0
+Dec 25 19:07:36 :: [   358200] return 0/0/0 async 0/0/0
+Dec 25 19:07:38 :: [   358250] return 0/0/0 async 0/0/0
+Dec 25 19:07:40 :: [   358300] return 0/0/0 async 0/0/0
+Dec 25 19:07:42 :: [   358350] return 0/0/0 async 0/0/0
+Dec 25 19:07:44 :: [   358400] return 0/0/1 async 0/0/0
+Dec 25 19:07:46 :: [   358450] return 0/0/0 async 0/0/0
+Dec 25 19:07:48 :: [   358500] return 0/0/0 async 0/0/0
+Dec 25 19:07:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:07:50 :: [   358550] return 0/0/0 async 0/0/0
+Dec 25 19:07:52 :: [   358600] return 0/0/0 async 0/0/0
+Dec 25 19:07:54 :: [   358650] return 0/0/1 async 0/0/0
+Dec 25 19:07:56 :: [   358700] return 0/0/0 async 0/0/0
+Dec 25 19:07:58 :: [   358750] return 0/0/0 async 0/0/0
+Dec 25 19:08:00 :: [   358800] return 0/0/0 async 0/0/0
+Dec 25 19:08:02 :: [   358850] return 0/0/0 async 0/0/0
+Dec 25 19:08:04 :: [   358900] return 0/0/1 async 0/0/0
+Dec 25 19:08:06 :: [   358950] return 0/0/0 async 0/0/0
+Dec 25 19:08:08 :: [   359000] return 0/0/0 async 0/0/0
+Dec 25 19:08:10 :: [   359050] return 0/0/0 async 0/0/0
+Dec 25 19:08:12 :: [   359100] return 0/0/0 async 0/0/0
+Dec 25 19:08:14 :: [   359150] return 0/0/1 async 0/0/0
+Dec 25 19:08:16 :: [   359200] return 0/0/0 async 0/0/0
+Dec 25 19:08:18 :: [   359250] return 0/0/0 async 0/0/0
+Dec 25 19:08:20 :: [   359300] return 0/0/0 async 0/0/0
+Dec 25 19:08:22 :: [   359350] return 0/0/0 async 0/0/0
+Dec 25 19:08:24 :: [   359400] return 0/0/1 async 0/0/0
+Dec 25 19:08:26 :: [   359450] return 0/0/0 async 0/0/0
+Dec 25 19:08:28 :: [   359500] return 0/0/0 async 0/0/0
+Dec 25 19:08:30 :: [   359550] return 0/0/0 async 0/0/0
+Dec 25 19:08:32 :: [   359600] return 0/0/0 async 0/0/0
+Dec 25 19:08:34 :: [   359650] return 0/0/1 async 0/0/0
+Dec 25 19:08:36 :: [   359700] return 0/0/0 async 0/0/0
+Dec 25 19:08:38 :: [   359750] return 0/0/0 async 0/0/0
+Dec 25 19:08:40 :: [   359800] return 0/0/0 async 0/0/0
+Dec 25 19:08:42 :: [   359850] return 0/0/0 async 0/0/0
+Dec 25 19:08:44 :: [   359900] return 0/0/1 async 0/0/0
+Dec 25 19:08:46 :: [   359950] return 0/0/0 async 0/0/0
+Dec 25 19:08:48 :: [   360000] return 0/0/0 async 0/0/0
+Dec 25 19:08:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:08:50 :: [   360050] return 0/0/0 async 0/0/0
+Dec 25 19:08:52 :: [   360100] return 0/0/0 async 0/0/0
+Dec 25 19:08:54 :: [   360150] return 0/0/1 async 0/0/0
+Dec 25 19:08:56 :: [   360200] return 0/0/0 async 0/0/0
+Dec 25 19:08:58 :: [   360250] return 0/0/0 async 0/0/0
+Dec 25 19:09:00 :: [   360300] return 0/0/0 async 0/0/0
+Dec 25 19:09:02 :: [   360350] return 0/0/0 async 0/0/0
+Dec 25 19:09:04 :: [   360400] return 0/0/1 async 0/0/0
+Dec 25 19:09:06 :: [   360450] return 0/0/0 async 0/0/0
+Dec 25 19:09:08 :: [   360500] return 0/0/0 async 0/0/0
+Dec 25 19:09:10 :: [   360550] return 0/0/0 async 0/0/0
+Dec 25 19:09:12 :: [   360600] return 0/0/0 async 0/0/0
+Dec 25 19:09:14 :: [   360650] return 0/0/1 async 0/0/0
+Dec 25 19:09:16 :: [   360700] return 0/0/0 async 0/0/0
+Dec 25 19:09:18 :: [   360750] return 0/0/0 async 0/0/0
+Dec 25 19:09:20 :: [   360800] return 0/0/0 async 0/0/0
+Dec 25 19:09:22 :: [   360850] return 0/0/0 async 0/0/0
+Dec 25 19:09:24 :: [   360900] return 0/0/1 async 0/0/0
+Dec 25 19:09:26 :: [   360950] return 0/0/0 async 0/0/0
+Dec 25 19:09:28 :: [   361000] return 0/0/0 async 0/0/0
+Dec 25 19:09:30 :: [   361050] return 0/0/0 async 0/0/0
+Dec 25 19:09:32 :: [   361100] return 0/0/0 async 0/0/0
+Dec 25 19:09:34 :: [   361150] return 0/0/1 async 0/0/0
+Dec 25 19:09:36 :: [   361200] return 0/0/0 async 0/0/0
+Dec 25 19:09:38 :: [   361250] return 0/0/0 async 0/0/0
+Dec 25 19:09:40 :: [   361300] return 0/0/0 async 0/0/0
+Dec 25 19:09:42 :: [   361350] return 0/0/0 async 0/0/0
+Dec 25 19:09:44 :: [   361400] return 0/0/1 async 0/0/0
+Dec 25 19:09:46 :: [   361450] return 0/0/0 async 0/0/0
+Dec 25 19:09:48 :: [   361500] return 0/0/0 async 0/0/0
+Dec 25 19:09:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:09:50 :: [   361550] return 0/0/0 async 0/0/0
+Dec 25 19:09:52 :: [   361600] return 0/0/0 async 0/0/0
+Dec 25 19:09:54 :: [   361650] return 0/0/1 async 0/0/0
+Dec 25 19:09:56 :: [   361700] return 0/0/0 async 0/0/0
+Dec 25 19:09:58 :: [   361750] return 0/0/0 async 0/0/0
+Dec 25 19:10:00 :: [   361800] return 0/0/0 async 0/0/0
+Dec 25 19:10:02 :: [   361850] return 0/0/0 async 0/0/0
+Dec 25 19:10:04 :: [   361900] return 0/0/1 async 0/0/0
+Dec 25 19:10:06 :: [   361950] return 0/0/0 async 0/0/0
+Dec 25 19:10:08 :: [   362000] return 0/0/0 async 0/0/0
+Dec 25 19:10:10 :: [   362050] return 0/0/0 async 0/0/0
+Dec 25 19:10:12 :: [   362100] return 0/0/0 async 0/0/0
+Dec 25 19:10:14 :: [   362150] return 0/0/1 async 0/0/0
+Dec 25 19:10:16 :: [   362200] return 0/0/0 async 0/0/0
+Dec 25 19:10:18 :: [   362250] return 0/0/0 async 0/0/0
+Dec 25 19:10:20 :: [   362300] return 0/0/0 async 0/0/0
+Dec 25 19:10:22 :: [   362350] return 0/0/0 async 0/0/0
+Dec 25 19:10:24 :: [   362400] return 0/0/1 async 0/0/0
+Dec 25 19:10:26 :: [   362450] return 0/0/0 async 0/0/0
+Dec 25 19:10:28 :: [   362500] return 0/0/0 async 0/0/0
+Dec 25 19:10:30 :: [   362550] return 0/0/0 async 0/0/0
+Dec 25 19:10:32 :: [   362600] return 0/0/0 async 0/0/0
+Dec 25 19:10:34 :: [   362650] return 0/0/1 async 0/0/0
+Dec 25 19:10:36 :: [   362700] return 0/0/0 async 0/0/0
+Dec 25 19:10:38 :: [   362750] return 0/0/0 async 0/0/0
+Dec 25 19:10:40 :: [   362800] return 0/0/0 async 0/0/0
+Dec 25 19:10:42 :: [   362850] return 0/0/0 async 0/0/0
+Dec 25 19:10:44 :: [   362900] return 0/0/1 async 0/0/0
+Dec 25 19:10:46 :: [   362950] return 0/0/0 async 0/0/0
+Dec 25 19:10:48 :: [   363000] return 0/0/0 async 0/0/0
+Dec 25 19:10:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:10:50 :: [   363050] return 0/0/0 async 0/0/0
+Dec 25 19:10:52 :: [   363100] return 0/0/0 async 0/0/0
+Dec 25 19:10:54 :: [   363150] return 0/0/1 async 0/0/0
+Dec 25 19:10:56 :: [   363200] return 0/0/0 async 0/0/0
+Dec 25 19:10:58 :: [   363250] return 0/0/0 async 0/0/0
+Dec 25 19:11:00 :: [   363300] return 0/0/0 async 0/0/0
+Dec 25 19:11:02 :: [   363350] return 0/0/0 async 0/0/0
+Dec 25 19:11:04 :: [   363400] return 0/0/1 async 0/0/0
+Dec 25 19:11:06 :: [   363450] return 0/0/0 async 0/0/0
+Dec 25 19:11:08 :: [   363500] return 0/0/0 async 0/0/0
+Dec 25 19:11:10 :: [   363550] return 0/0/0 async 0/0/0
+Dec 25 19:11:12 :: [   363600] return 0/0/0 async 0/0/0
+Dec 25 19:11:14 :: [   363650] return 0/0/1 async 0/0/0
+Dec 25 19:11:16 :: [   363700] return 0/0/0 async 0/0/0
+Dec 25 19:11:18 :: [   363750] return 0/0/0 async 0/0/0
+Dec 25 19:11:20 :: [   363800] return 0/0/0 async 0/0/0
+Dec 25 19:11:22 :: [   363850] return 0/0/0 async 0/0/0
+Dec 25 19:11:24 :: [   363900] return 0/0/1 async 0/0/0
+Dec 25 19:11:26 :: [   363950] return 0/0/0 async 0/0/0
+Dec 25 19:11:28 :: [   364000] return 0/0/0 async 0/0/0
+Dec 25 19:11:30 :: [   364050] return 0/0/0 async 0/0/0
+Dec 25 19:11:32 :: [   364100] return 0/0/0 async 0/0/0
+Dec 25 19:11:34 :: [   364150] return 0/0/1 async 0/0/0
+Dec 25 19:11:36 :: [   364200] return 0/0/0 async 0/0/0
+Dec 25 19:11:38 :: [   364250] return 0/0/0 async 0/0/0
+Dec 25 19:11:40 :: [   364300] return 0/0/0 async 0/0/0
+Dec 25 19:11:42 :: [   364350] return 0/0/0 async 0/0/0
+Dec 25 19:11:44 :: [   364400] return 0/0/1 async 0/0/0
+Dec 25 19:11:46 :: [   364450] return 0/0/0 async 0/0/0
+Dec 25 19:11:48 :: [   364500] return 0/0/0 async 0/0/0
+Dec 25 19:11:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:11:50 :: [   364550] return 0/0/0 async 0/0/0
+Dec 25 19:11:52 :: [   364600] return 0/0/0 async 0/0/0
+Dec 25 19:11:54 :: [   364650] return 0/0/1 async 0/0/0
+Dec 25 19:11:56 :: [   364700] return 0/0/0 async 0/0/0
+Dec 25 19:11:58 :: [   364750] return 0/0/0 async 0/0/0
+Dec 25 19:12:00 :: [   364800] return 0/0/0 async 0/0/0
+Dec 25 19:12:02 :: [   364850] return 0/0/0 async 0/0/0
+Dec 25 19:12:04 :: [   364900] return 0/0/1 async 0/0/0
+Dec 25 19:12:06 :: [   364950] return 0/0/0 async 0/0/0
+Dec 25 19:12:08 :: [   365000] return 0/0/0 async 0/0/0
+Dec 25 19:12:10 :: [   365050] return 0/0/0 async 0/0/0
+Dec 25 19:12:12 :: [   365100] return 0/0/0 async 0/0/0
+Dec 25 19:12:14 :: [   365150] return 0/0/1 async 0/0/0
+Dec 25 19:12:16 :: [   365200] return 0/0/0 async 0/0/0
+Dec 25 19:12:18 :: [   365250] return 0/0/0 async 0/0/0
+Dec 25 19:12:20 :: [   365300] return 0/0/0 async 0/0/0
+Dec 25 19:12:22 :: [   365350] return 0/0/0 async 0/0/0
+Dec 25 19:12:24 :: [   365400] return 0/0/1 async 0/0/0
+Dec 25 19:12:26 :: [   365450] return 0/0/0 async 0/0/0
+Dec 25 19:12:28 :: [   365500] return 0/0/0 async 0/0/0
+Dec 25 19:12:30 :: [   365550] return 0/0/0 async 0/0/0
+Dec 25 19:12:32 :: [   365600] return 0/0/0 async 0/0/0
+Dec 25 19:12:34 :: [   365650] return 0/0/1 async 0/0/0
+Dec 25 19:12:36 :: [   365700] return 0/0/0 async 0/0/0
+Dec 25 19:12:38 :: [   365750] return 0/0/0 async 0/0/0
+Dec 25 19:12:40 :: [   365800] return 0/0/0 async 0/0/0
+Dec 25 19:12:42 :: [   365850] return 0/0/0 async 0/0/0
+Dec 25 19:12:44 :: [   365900] return 0/0/1 async 0/0/0
+Dec 25 19:12:46 :: [   365950] return 0/0/0 async 0/0/0
+Dec 25 19:12:48 :: [   366000] return 0/0/0 async 0/0/0
+Dec 25 19:12:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:12:50 :: [   366050] return 0/0/0 async 0/0/0
+Dec 25 19:12:52 :: [   366100] return 0/0/0 async 0/0/0
+Dec 25 19:12:54 :: [   366150] return 0/0/1 async 0/0/0
+Dec 25 19:12:56 :: [   366200] return 0/0/0 async 0/0/0
+Dec 25 19:12:58 :: [   366250] return 0/0/0 async 0/0/0
+Dec 25 19:13:00 :: [   366300] return 0/0/0 async 0/0/0
+Dec 25 19:13:02 :: [   366350] return 0/0/0 async 0/0/0
+Dec 25 19:13:04 :: [   366400] return 0/0/1 async 0/0/0
+Dec 25 19:13:06 :: [   366450] return 0/0/0 async 0/0/0
+Dec 25 19:13:08 :: [   366500] return 0/0/0 async 0/0/0
+Dec 25 19:13:10 :: [   366550] return 0/0/0 async 0/0/0
+Dec 25 19:13:12 :: [   366600] return 0/0/0 async 0/0/0
+Dec 25 19:13:14 :: [   366650] return 0/0/1 async 0/0/0
+Dec 25 19:13:16 :: [   366700] return 0/0/0 async 0/0/0
+Dec 25 19:13:18 :: [   366750] return 0/0/0 async 0/0/0
+Dec 25 19:13:20 :: [   366800] return 0/0/0 async 0/0/0
+Dec 25 19:13:22 :: [   366850] return 0/0/0 async 0/0/0
+Dec 25 19:13:24 :: [   366900] return 0/0/1 async 0/0/0
+Dec 25 19:13:26 :: [   366950] return 0/0/0 async 0/0/0
+Dec 25 19:13:28 :: [   367000] return 0/0/0 async 0/0/0
+Dec 25 19:13:30 :: [   367050] return 0/0/0 async 0/0/0
+Dec 25 19:13:32 :: [   367100] return 0/0/0 async 0/0/0
+Dec 25 19:13:34 :: [   367150] return 0/0/1 async 0/0/0
+Dec 25 19:13:36 :: [   367200] return 0/0/0 async 0/0/0
+Dec 25 19:13:38 :: [   367250] return 0/0/0 async 0/0/0
+Dec 25 19:13:40 :: [   367300] return 0/0/0 async 0/0/0
+Dec 25 19:13:42 :: [   367350] return 0/0/0 async 0/0/0
+Dec 25 19:13:44 :: [   367400] return 0/0/1 async 0/0/0
+Dec 25 19:13:46 :: [   367450] return 0/0/0 async 0/0/0
+Dec 25 19:13:48 :: [   367500] return 0/0/0 async 0/0/0
+Dec 25 19:13:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:13:50 :: [   367550] return 0/0/0 async 0/0/0
+Dec 25 19:13:52 :: [   367600] return 0/0/0 async 0/0/0
+Dec 25 19:13:54 :: [   367650] return 0/0/1 async 0/0/0
+Dec 25 19:13:56 :: [   367700] return 0/0/0 async 0/0/0
+Dec 25 19:13:58 :: [   367750] return 0/0/0 async 0/0/0
+Dec 25 19:14:00 :: [   367800] return 0/0/0 async 0/0/0
+Dec 25 19:14:02 :: [   367850] return 0/0/0 async 0/0/0
+Dec 25 19:14:04 :: [   367900] return 0/0/1 async 0/0/0
+Dec 25 19:14:06 :: [   367950] return 0/0/0 async 0/0/0
+Dec 25 19:14:08 :: [   368000] return 0/0/0 async 0/0/0
+Dec 25 19:14:10 :: [   368050] return 0/0/0 async 0/0/0
+Dec 25 19:14:12 :: [   368100] return 0/0/0 async 0/0/0
+Dec 25 19:14:14 :: [   368150] return 0/0/1 async 0/0/0
+Dec 25 19:14:16 :: [   368200] return 0/0/0 async 0/0/0
+Dec 25 19:14:18 :: [   368250] return 0/0/0 async 0/0/0
+Dec 25 19:14:20 :: [   368300] return 0/0/0 async 0/0/0
+Dec 25 19:14:22 :: [   368350] return 0/0/0 async 0/0/0
+Dec 25 19:14:24 :: [   368400] return 0/0/1 async 0/0/0
+Dec 25 19:14:26 :: [   368450] return 0/0/0 async 0/0/0
+Dec 25 19:14:28 :: [   368500] return 0/0/0 async 0/0/0
+Dec 25 19:14:30 :: [   368550] return 0/0/0 async 0/0/0
+Dec 25 19:14:32 :: [   368600] return 0/0/0 async 0/0/0
+Dec 25 19:14:34 :: [   368650] return 0/0/1 async 0/0/0
+Dec 25 19:14:36 :: [   368700] return 0/0/0 async 0/0/0
+Dec 25 19:14:38 :: [   368750] return 0/0/0 async 0/0/0
+Dec 25 19:14:40 :: [   368800] return 0/0/0 async 0/0/0
+Dec 25 19:14:42 :: [   368850] return 0/0/0 async 0/0/0
+Dec 25 19:14:44 :: [   368900] return 0/0/1 async 0/0/0
+Dec 25 19:14:46 :: [   368950] return 0/0/0 async 0/0/0
+Dec 25 19:14:48 :: [   369000] return 0/0/0 async 0/0/0
+Dec 25 19:14:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:14:50 :: [   369050] return 0/0/0 async 0/0/0
+Dec 25 19:14:52 :: [   369100] return 0/0/0 async 0/0/0
+Dec 25 19:14:54 :: [   369150] return 0/0/1 async 0/0/0
+Dec 25 19:14:56 :: [   369200] return 0/0/0 async 0/0/0
+Dec 25 19:14:58 :: [   369250] return 0/0/0 async 0/0/0
+Dec 25 19:15:00 :: [   369300] return 0/0/0 async 0/0/0
+Dec 25 19:15:02 :: [   369350] return 0/0/0 async 0/0/0
+Dec 25 19:15:04 :: [   369400] return 0/0/1 async 0/0/0
+Dec 25 19:15:06 :: [   369450] return 0/0/0 async 0/0/0
+Dec 25 19:15:08 :: [   369500] return 0/0/0 async 0/0/0
+Dec 25 19:15:10 :: [   369550] return 0/0/0 async 0/0/0
+Dec 25 19:15:12 :: [   369600] return 0/0/0 async 0/0/0
+Dec 25 19:15:14 :: [   369650] return 0/0/1 async 0/0/0
+Dec 25 19:15:16 :: [   369700] return 0/0/0 async 0/0/0
+Dec 25 19:15:18 :: [   369750] return 0/0/0 async 0/0/0
+Dec 25 19:15:20 :: [   369800] return 0/0/0 async 0/0/0
+Dec 25 19:15:22 :: [   369850] return 0/0/0 async 0/0/0
+Dec 25 19:15:24 :: [   369900] return 0/0/1 async 0/0/0
+Dec 25 19:15:26 :: [   369950] return 0/0/0 async 0/0/0
+Dec 25 19:15:28 :: [   370000] return 0/0/0 async 0/0/0
+Dec 25 19:15:30 :: [   370050] return 0/0/0 async 0/0/0
+Dec 25 19:15:32 :: [   370100] return 0/0/0 async 0/0/0
+Dec 25 19:15:34 :: [   370150] return 0/0/1 async 0/0/0
+Dec 25 19:15:36 :: [   370200] return 0/0/0 async 0/0/0
+Dec 25 19:15:38 :: [   370250] return 0/0/0 async 0/0/0
+Dec 25 19:15:40 :: [   370300] return 0/0/0 async 0/0/0
+Dec 25 19:15:42 :: [   370350] return 0/0/0 async 0/0/0
+Dec 25 19:15:44 :: [   370400] return 0/0/1 async 0/0/0
+Dec 25 19:15:46 :: [   370450] return 0/0/0 async 0/0/0
+Dec 25 19:15:48 :: [   370500] return 0/0/0 async 0/0/0
+Dec 25 19:15:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:15:50 :: [   370550] return 0/0/0 async 0/0/0
+Dec 25 19:15:52 :: [   370600] return 0/0/0 async 0/0/0
+Dec 25 19:15:54 :: [   370650] return 0/0/1 async 0/0/0
+Dec 25 19:15:56 :: [   370700] return 0/0/0 async 0/0/0
+Dec 25 19:15:58 :: [   370750] return 0/0/0 async 0/0/0
+Dec 25 19:16:00 :: [   370800] return 0/0/0 async 0/0/0
+Dec 25 19:16:02 :: [   370850] return 0/0/0 async 0/0/0
+Dec 25 19:16:04 :: [   370900] return 0/0/1 async 0/0/0
+Dec 25 19:16:06 :: [   370950] return 0/0/0 async 0/0/0
+Dec 25 19:16:08 :: [   371000] return 0/0/0 async 0/0/0
+Dec 25 19:16:10 :: [   371050] return 0/0/0 async 0/0/0
+Dec 25 19:16:12 :: [   371100] return 0/0/0 async 0/0/0
+Dec 25 19:16:14 :: [   371150] return 0/0/1 async 0/0/0
+Dec 25 19:16:16 :: [   371200] return 0/0/0 async 0/0/0
+Dec 25 19:16:18 :: [   371250] return 0/0/0 async 0/0/0
+Dec 25 19:16:20 :: [   371300] return 0/0/0 async 0/0/0
+Dec 25 19:16:22 :: [   371350] return 0/0/0 async 0/0/0
+Dec 25 19:16:24 :: [   371400] return 0/0/1 async 0/0/0
+Dec 25 19:16:26 :: [   371450] return 0/0/0 async 0/0/0
+Dec 25 19:16:28 :: [   371500] return 0/0/0 async 0/0/0
+Dec 25 19:16:30 :: [   371550] return 0/0/0 async 0/0/0
+Dec 25 19:16:32 :: [   371600] return 0/0/0 async 0/0/0
+Dec 25 19:16:34 :: [   371650] return 0/0/1 async 0/0/0
+Dec 25 19:16:36 :: [   371700] return 0/0/0 async 0/0/0
+Dec 25 19:16:38 :: [   371750] return 0/0/0 async 0/0/0
+Dec 25 19:16:40 :: [   371800] return 0/0/0 async 0/0/0
+Dec 25 19:16:42 :: [   371850] return 0/0/0 async 0/0/0
+Dec 25 19:16:44 :: [   371900] return 0/0/1 async 0/0/0
+Dec 25 19:16:46 :: [   371950] return 0/0/0 async 0/0/0
+Dec 25 19:16:48 :: [   372000] return 0/0/0 async 0/0/0
+Dec 25 19:16:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:16:50 :: [   372050] return 0/0/0 async 0/0/0
+Dec 25 19:16:52 :: [   372100] return 0/0/0 async 0/0/0
+Dec 25 19:16:54 :: [   372150] return 0/0/1 async 0/0/0
+Dec 25 19:16:56 :: [   372200] return 0/0/0 async 0/0/0
+Dec 25 19:16:58 :: [   372250] return 0/0/0 async 0/0/0
+Dec 25 19:17:00 :: [   372300] return 0/0/0 async 0/0/0
+Dec 25 19:17:02 :: [   372350] return 0/0/0 async 0/0/0
+Dec 25 19:17:04 :: [   372400] return 0/0/1 async 0/0/0
+Dec 25 19:17:06 :: [   372450] return 0/0/0 async 0/0/0
+Dec 25 19:17:08 :: [   372500] return 0/0/0 async 0/0/0
+Dec 25 19:17:10 :: [   372550] return 0/0/0 async 0/0/0
+Dec 25 19:17:12 :: [   372600] return 0/0/0 async 0/0/0
+Dec 25 19:17:14 :: [   372650] return 0/0/1 async 0/0/0
+Dec 25 19:17:16 :: [   372700] return 0/0/0 async 0/0/0
+Dec 25 19:17:18 :: [   372750] return 0/0/0 async 0/0/0
+Dec 25 19:17:20 :: [   372800] return 0/0/0 async 0/0/0
+Dec 25 19:17:22 :: [   372850] return 0/0/0 async 0/0/0
+Dec 25 19:17:24 :: [   372900] return 0/0/1 async 0/0/0
+Dec 25 19:17:26 :: [   372950] return 0/0/0 async 0/0/0
+Dec 25 19:17:28 :: [   373000] return 0/0/0 async 0/0/0
+Dec 25 19:17:30 :: [   373050] return 0/0/0 async 0/0/0
+Dec 25 19:17:32 :: [   373100] return 0/0/0 async 0/0/0
+Dec 25 19:17:34 :: [   373150] return 0/0/1 async 0/0/0
+Dec 25 19:17:36 :: [   373200] return 0/0/0 async 0/0/0
+Dec 25 19:17:38 :: [   373250] return 0/0/0 async 0/0/0
+Dec 25 19:17:40 :: [   373300] return 0/0/0 async 0/0/0
+Dec 25 19:17:42 :: [   373350] return 0/0/0 async 0/0/0
+Dec 25 19:17:44 :: [   373400] return 0/0/1 async 0/0/0
+Dec 25 19:17:46 :: [   373450] return 0/0/0 async 0/0/0
+Dec 25 19:17:48 :: [   373500] return 0/0/0 async 0/0/0
+Dec 25 19:17:48 :: Current Peer host names...
+127.0.0.1 30008 channel : 99
+127.0.0.1 30006 channel : 1
+127.0.0.1 30004 channel : 1
+127.0.0.1 0 channel : 0
+
+Dec 25 19:17:50 :: [   373550] return 0/0/0 async 0/0/0
+Dec 25 19:17:52 :: [   373600] return 0/0/0 async 0/0/0
+Dec 25 19:17:54 :: [   373650] return 0/0/1 async 0/0/0
+Dec 25 19:17:56 :: [   373700] return 0/0/0 async 0/0/0
+Dec 25 19:17:58 :: [   373750] return 0/0/0 async 0/0/0
+Dec 25 19:18:00 :: [   373800] return 0/0/0 async 0/0/0
+Dec 25 19:18:02 :: [   373850] return 0/0/0 async 0/0/0
+Dec 25 19:18:04 :: [   373900] return 0/0/1 async 0/0/0
+Dec 25 19:18:06 :: [   373950] return 0/0/0 async 0/0/0
+Dec 25 19:18:08 :: [   374000] return 0/0/0 async 0/0/0
+Dec 25 19:18:10 :: [   374050] return 0/0/0 async 0/0/0
+Dec 25 19:18:12 :: [   374100] return 0/0/0 async 0/0/0
+Dec 25 19:18:14 :: [   374150] return 0/0/1 async 0/0/0
